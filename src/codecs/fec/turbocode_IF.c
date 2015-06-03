@@ -15,7 +15,7 @@
 * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 * GNU General Public License for more details.
 */
-#include "t_code_interface.h"
+#include "turbocode_IF.h"
 
 #define N 8
 #define TBD -1        //trellis termination bits (inserted by encoder #1)

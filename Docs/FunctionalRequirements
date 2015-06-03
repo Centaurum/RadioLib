@@ -1,0 +1,16 @@
+Data transmission modes (hierarchical):
+1. Receive only (silence)
+2. Send and receive
+3. Transmission with confirmation
+
+Communication features:
+1. Telegraph
+2. Message transmission
+3. Voice transmission
+4. Ping (transmission with confirmation mode only)
+5. USB modem.
+
+Data management functional:
+1. Temporary storage for messages and voice packets (period should be configurable)
+2. Clear secret parameters.
+
